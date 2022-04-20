@@ -1,0 +1,27 @@
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\Fatura Hesap\Fatura Hesap\bin\Debug\Fatura Hesap.exe.config
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\Fatura Hesap\Fatura Hesap\bin\Debug\Fatura Hesap.exe
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\Fatura Hesap\Fatura Hesap\bin\Debug\Fatura Hesap.pdb
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura_Hesap.Form1.resources
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura_Hesap.Properties.Resources.resources
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.csproj.GenerateResource.Cache
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.exe
+C:\Users\Ali\Documents\Visual Studio 2017\Projects\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.pdb
+C:\Users\Mert Ertuğrul\Downloads\Fatura Hesap (1)\Fatura Hesap\Fatura Hesap\bin\Debug\Fatura Hesap.exe.config
+C:\Users\Mert Ertuğrul\Downloads\Fatura Hesap (1)\Fatura Hesap\Fatura Hesap\bin\Debug\Fatura Hesap.exe
+C:\Users\Mert Ertuğrul\Downloads\Fatura Hesap (1)\Fatura Hesap\Fatura Hesap\bin\Debug\Fatura Hesap.pdb
+C:\Users\Mert Ertuğrul\Downloads\Fatura Hesap (1)\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.csprojResolveAssemblyReference.cache
+C:\Users\Mert Ertuğrul\Downloads\Fatura Hesap (1)\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura_Hesap.Form1.resources
+C:\Users\Mert Ertuğrul\Downloads\Fatura Hesap (1)\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura_Hesap.Properties.Resources.resources
+C:\Users\Mert Ertuğrul\Downloads\Fatura Hesap (1)\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.csproj.GenerateResource.Cache
+C:\Users\Mert Ertuğrul\Downloads\Fatura Hesap (1)\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.exe
+C:\Users\Mert Ertuğrul\Downloads\Fatura Hesap (1)\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.pdb
+C:\Users\Ali\Desktop\Fatura Hesap\Fatura Hesap\Fatura Hesap\bin\Debug\Fatura Hesap.exe.config
+C:\Users\Ali\Desktop\Fatura Hesap\Fatura Hesap\Fatura Hesap\bin\Debug\Fatura Hesap.exe
+C:\Users\Ali\Desktop\Fatura Hesap\Fatura Hesap\Fatura Hesap\bin\Debug\Fatura Hesap.pdb
+C:\Users\Ali\Desktop\Fatura Hesap\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\Fatura Hesap\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura_Hesap.Form1.resources
+C:\Users\Ali\Desktop\Fatura Hesap\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura_Hesap.Properties.Resources.resources
+C:\Users\Ali\Desktop\Fatura Hesap\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\Fatura Hesap\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.exe
+C:\Users\Ali\Desktop\Fatura Hesap\Fatura Hesap\Fatura Hesap\obj\Debug\Fatura Hesap.pdb
